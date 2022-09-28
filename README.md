@@ -35,6 +35,6 @@
   <img src="images/RStudio.png" alt="alt text" width="70" height="50"/>
   <br>
   <img src="images/R.png" alt="alt text" width="30" height="50"/>
-  <img src="images/Python.png" alt="alt text" width="50" height="50"/>
-  <img src="images/SQL.png" alt="alt text" width="50" height="50">
+  <img src="images/Python.png" alt="alt text" width="60" height="50"/>
+  <img src="images/SQL.png" alt="alt text" width="60" height="50">
 </p>
