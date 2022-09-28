@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="images/RStudio.png"/>
   <br>
-  <img src="images/R.png"/>
-  <img src="images/Python.png"/>
-  <img src="images/SQL.png">
+  <img src="images/R.png" style="max-height: 20px; max-width: 30px;"/>
+  <img src="images/Python.png" style="max-height: 20px; max-width: 30px;"/>
+  <img src="images/SQL.png" style="max-height: 20px; max-width: 30px;">
 </p>
