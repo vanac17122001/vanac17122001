@@ -32,7 +32,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg style="max-height: 100px; max-width: 100px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" style="max-height: 100px; max-width: 100px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
   <img src="https://www.kindpng.com/picc/m/32-323447_r-programming-language-logo-hd-png-download.png" alt="R Programming Language Logo, HD Png Download@kindpng.com">
 </p>
