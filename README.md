@@ -32,9 +32,9 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="images/RStudio.png"/>
+  <img src="images/RStudio.png" alt="alt text" width="20" height="20"/>
   <br>
   <img src="images/R.png" alt="alt text" width="20" height="20"/>
-  <img src="images/PythonReSize.png"/>
-  <img src="images/SQL.png" style="max-height: 5px; max-width: 5px;">
+  <img src="images/Python.png" alt="alt text" width="20" height="20"/>
+  <img src="images/SQL.png" alt="alt text" width="20" height="20">
 </p>
