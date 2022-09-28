@@ -50,3 +50,12 @@
     <img alt="AWS" title="AWS" src="certificates/FireShot Capture003 AWSAcademyGraduate AWSAcademyIntroductiontoCloudSemester1.png" width="450px" />
   </a>
 </p>
+
+<p align="center">
+  <a href="">
+    <img alt="PowerBI" title="PowerBI" src="certificates/AnalyzeWithPowerBI.png" width="450px" />
+  </a>
+  <a href="">
+    <img alt="PowerBI" title="PowerBI" src="certificates/PowerBI.png" width="450px" />
+  </a>
+</p>
