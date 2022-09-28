@@ -38,3 +38,15 @@
   <img src="images/Python.png" alt="alt text" width="60" height="50"/>
   <img src="images/SQL.png" alt="alt text" width="60" height="50">
 </p>
+
+
+# Certificates:
+
+<p align="center">
+  <a href="">
+    <img alt="AWS" title="AWS" src="certificates/FireShotCapture002AWSAcademy GraduateAWS AcademyCloudFoundations.png" width="300px" />
+  </a>
+  <a href="">
+    <img alt="AWS" title="AWS" src="certificates/FireShot Capture003 AWSAcademyGraduate AWSAcademyIntroductiontoCloudSemester1.png" width="300px" />
+  </a>
+</p>
