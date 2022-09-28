@@ -44,18 +44,18 @@
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/0480ce1b-17a9-42b4-92ac-25a4dcc41cef">
-    <img alt="AWS" title="AWS" src="certificates/FireShotCapture002AWSAcademy GraduateAWS AcademyCloudFoundations.png" width="450px" />
+    <img alt="AWS" title="AWS" src="certificates/FireShotCapture002AWSAcademy GraduateAWS AcademyCloudFoundations.png" width="200px" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/3b3c02bd-789a-48e2-8c5e-625a54e22f2f">
-    <img alt="AWS" title="AWS" src="certificates/FireShot Capture003 AWSAcademyGraduate AWSAcademyIntroductiontoCloudSemester1.png" width="450px" />
+    <img alt="AWS" title="AWS" src="certificates/FireShot Capture003 AWSAcademyGraduate AWSAcademyIntroductiontoCloudSemester1.png" width="200px" />
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img alt="PowerBI" title="PowerBI" src="certificates/AnalyzeWithPowerBI.jpg" width="500px" />
+    <img alt="PowerBI" title="PowerBI" src="certificates/AnalyzeWithPowerBI.jpg" width="400px" />
   </a>
   <a href="https://skillsoft.digitalbadges.skillsoft.com/profile/caovan694089/wallet">
-    <img alt="PowerBI" title="PowerBI" src="certificates/PowerBI.jpg" width="500px" />
+    <img alt="PowerBI" title="PowerBI" src="certificates/PowerBI.jpg" width="200px" />
   </a>
 </p>
