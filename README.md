@@ -55,7 +55,7 @@
   <a href="#">
     <img alt="PowerBI" title="PowerBI" src="certificates/AnalyzeWithPowerBI.jpg" width="500px" />
   </a>
-  <a href="https://skillsoft.digitalbadges.skillsoft.com/a5f7c5ee-5c93-43b9-a6e7-d613b8010763#gs.dd0ew9">
+  <a href="https://skillsoft.digitalbadges.skillsoft.com/profile/caovan694089/wallet">
     <img alt="PowerBI" title="PowerBI" src="certificates/PowerBI.jpg" width="500px" />
   </a>
 </p>
