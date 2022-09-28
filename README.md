@@ -43,19 +43,19 @@
 # Certificates:
 
 <p align="center">
-  <a href="">
+  <a href="https://www.credly.com/earner/earned/badge/0480ce1b-17a9-42b4-92ac-25a4dcc41cef">
     <img alt="AWS" title="AWS" src="certificates/FireShotCapture002AWSAcademy GraduateAWS AcademyCloudFoundations.png" width="450px" />
   </a>
-  <a href="">
+  <a href="https://www.credly.com/earner/earned/badge/3b3c02bd-789a-48e2-8c5e-625a54e22f2f">
     <img alt="AWS" title="AWS" src="certificates/FireShot Capture003 AWSAcademyGraduate AWSAcademyIntroductiontoCloudSemester1.png" width="450px" />
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img alt="PowerBI" title="PowerBI" src="certificates/AnalyzeWithPowerBI.jpg" width="450px" />
+    <img alt="PowerBI" title="PowerBI" src="certificates/AnalyzeWithPowerBI.jpg" width="500px" />
   </a>
-  <a href="">
-    <img alt="PowerBI" title="PowerBI" src="certificates/PowerBI.jpg" width="450px" />
+  <a href="https://skillsoft.digitalbadges.skillsoft.com/a5f7c5ee-5c93-43b9-a6e7-d613b8010763#gs.dd0ew9">
+    <img alt="PowerBI" title="PowerBI" src="certificates/PowerBI.jpg" width="500px" />
   </a>
 </p>
