@@ -44,9 +44,9 @@
 
 <p align="center">
   <a href="">
-    <img alt="AWS" title="AWS" src="certificates/FireShotCapture002AWSAcademy GraduateAWS AcademyCloudFoundations.png" width="400px" />
+    <img alt="AWS" title="AWS" src="certificates/FireShotCapture002AWSAcademy GraduateAWS AcademyCloudFoundations.png" width="450px" />
   </a>
   <a href="">
-    <img alt="AWS" title="AWS" src="certificates/FireShot Capture003 AWSAcademyGraduate AWSAcademyIntroductiontoCloudSemester1.png" width="400px" />
+    <img alt="AWS" title="AWS" src="certificates/FireShot Capture003 AWSAcademyGraduate AWSAcademyIntroductiontoCloudSemester1.png" width="450px" />
   </a>
 </p>
