@@ -53,9 +53,9 @@
 
 <p align="center">
   <a href="">
-    <img alt="PowerBI" title="PowerBI" src="certificates/AnalyzeWithPowerBI.png" width="450px" />
+    <img alt="PowerBI" title="PowerBI" src="certificates/AnalyzeWithPowerBI.jpg" width="450px" />
   </a>
   <a href="">
-    <img alt="PowerBI" title="PowerBI" src="certificates/PowerBI.png" width="450px" />
+    <img alt="PowerBI" title="PowerBI" src="certificates/PowerBI.jpg" width="450px" />
   </a>
 </p>
