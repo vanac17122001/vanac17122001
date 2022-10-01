@@ -65,6 +65,6 @@
     <img alt="Python" title="Python" src="certificates/Python_Instro.png" width="300px" />
   </a>
   <a href="https://skillsoft.digitalbadges.skillsoft.com/profile/caovan694089/wallet">
-    <img alt="Python" title="Python" src="certificates/Python_Numpy.jpg" width="300px" />
+    <img alt="Python" title="Python" src="certificates/Python_Numpy.png" width="300px" />
   </a>
 </p>
